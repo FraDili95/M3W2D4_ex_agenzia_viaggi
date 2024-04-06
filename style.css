@@ -1,0 +1,53 @@
+/*----------------------------------
+//////////HEADER-MADRE/////////////
+----------------------------------*/
+#BARRA_MADRE{
+  background-color: rgba(94, 124, 245, 0.2);
+}
+/*----------------------------------
+//////////PRIMA-RIGA-HEADER(TITOLO SITO)////
+----------------------------------*/
+#nome_sito{
+  color: #7E1481;
+  font-size: 2.5em;
+  font-weight: 800;
+  font-style: italic;
+}
+/*----------------------------------
+//////////SECONDA-RIGA-HEADER(SEZIONI)////
+----------------------------------*/
+.icons_sx{/*icone*/
+  color: white;
+  padding: 0 5rem;
+}
+.H_W_f div a{/*home w f*/
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+.S_N_C{/*Servizi News Conct*/
+  color: white;
+  font-weight: 600;
+}
+.Servizi {/*Servizi dropdown*/
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.logo_nav img{
+  max-width: 2.5rem;
+}
+
+/* Stili per il footer */
+footer {
+  margin-top: 20px;
+}
+
+footer div {
+  margin-bottom: 10px;
+}
+
+#nav_row div{
+  font-size: 16px;
+}
